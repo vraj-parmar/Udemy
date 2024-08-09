@@ -1,0 +1,5 @@
+([('frontend',
+   '/Users/vraj/Downloads/Udemy/The Python Mega Course - Build 10 Real World '
+   'Applications/Section 25 - App 5 - GUI Apps and SQL - Build a Book '
+   'Inventory Desktop GUI Database App/dist/frontend',
+   'EXECUTABLE')],)
